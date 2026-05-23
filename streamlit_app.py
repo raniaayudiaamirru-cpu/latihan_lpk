@@ -3,6 +3,6 @@ import streamlit as st
 st.title("📊 Dashboard")
 
 st.set_page_config(
-  page_title="Finance Dashboard",
+  page_title="Rania Dashboard",
   layout="wide"
 )
